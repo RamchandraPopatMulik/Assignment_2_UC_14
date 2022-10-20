@@ -27,7 +27,7 @@ namespace UC_14_TotalWage_quried_company
             }
             public string toString()
             {
-                return "Total Emp Wage for company: " + this.company + "is:" + this.totalEmpWage;
+                return "Total Emp Wage for company  : " + this.company + "is:" + this.totalEmpWage;
             }
         }
 }
